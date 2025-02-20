@@ -1,3 +1,5 @@
+LAYOFF DATA CLEANING PROJECT
+
 PROJECT OVERVIEW 
 
 This project aims to analyze and visualize global employee layoffs in the private sector from 2020 to 2023. Utilizing SQL for data cleaning and Tableau for visualization, the objective is to uncover trends and insights related to workforce reductions during and after the COVID-19 pandemic.
